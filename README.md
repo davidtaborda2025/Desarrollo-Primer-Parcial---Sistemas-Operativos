@@ -14,7 +14,7 @@ El código se basa en la aplicación de POO, segregando sus responsabilidades en
 Dentro de la carpeta "Desarrollo Parcial 1 Sistemas Operativos", se hallan los siguientes elementos:
 * `simulador_scheduler_mlq.py`: Archivo de código fuente principal que contiene la lógica de ejecución.
 * `mlq001.txt`, `mlq006.txt`, `mlq019.txt`: Escenarios estándar provistos por una carpeta de Google Drive en el enunciado del parcial.
-* `mlq_david_final.txt`: Escenario personalizado diseñado originalmente para validación funcional del simulador.
+* `mlq_personalizado.txt`: Escenario personalizado diseñado originalmente para validación funcional del simulador.
 * `Desarrollo Parcial 1 - David Taborda M.pdf`: Informe en formato PDF que explica y justifica todo el desarrollo realizado para abordar este examen parcial.
 
 ## Instrucciones de Ejecución
