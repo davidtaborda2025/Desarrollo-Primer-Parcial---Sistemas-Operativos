@@ -11,7 +11,7 @@ El código se basa en la aplicación de POO, segregando sus responsabilidades en
 * **`SimuladorMLQFinal`:** Orquestador central del tiempo a través de un reloj global unificado, respaldado por un mecanismo de sincronización mediante *Funciones Callback* para gestionar llegadas concurrentes por "oleadas".
 
 ## Estructura del Repositorio
-* `simulador.py`: Archivo de código fuente principal que contiene la lógica de ejecución.
+* `simulador_scheduler_mlq.py`: Archivo de código fuente principal que contiene la lógica de ejecución.
 * `mlq001.txt`, `mlq006.txt`, `mlq019.txt`: Escenarios estándar provistos por una carpeta de Google Drive en el enunciado del parcial.
 * `mlq_david_final.txt`: Escenario personalizado diseñado originalmente para validación funcional del simulador.
 
@@ -26,7 +26,7 @@ Simplemente abrir la carpeta del proyecto en su entorno de desarrollo y presione
 Pasarse al directorio del proyecto y ejecutar el código añadiendo el nombre de cualquiera de los archivos de entrada disponibles:
 
 ```bash
-python simulador.py mlq001.txt
-python simulador.py mlq006.txt
-python simulador.py mlq019.txt
-python simulador.py mlq_personalizado.txt
+python simulador_scheduler_mlq.py mlq001.txt
+python simulador_scheduler_mlq.py mlq006.txt
+python simulador_scheduler_mlq.py mlq019.txt
+python simulador_scheduler_mlq.py mlq_personalizado.txt

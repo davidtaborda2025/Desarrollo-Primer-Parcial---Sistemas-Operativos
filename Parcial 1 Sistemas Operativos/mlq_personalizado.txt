@@ -1,7 +1,0 @@
-# Archivo de Entrada: mlq_personalizado.txt
-# Etiqueta; Burst Time (BT); Arrival Time (AT); Queue (Q); Priority (5 > 1)
-P1; 5; 0; 1; 3
-P2; 4; 1; 1; 2
-P3; 6; 2; 2; 4
-P4; 3; 4; 3; 1
-P5; 4; 5; 2; 5
