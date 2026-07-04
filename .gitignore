@@ -1,9 +1,0 @@
-# Ignorar absolutamente todo por defecto en la raíz
-/*
-
-# Exceptuar el archivo de documentación principal para que sea visible
-!/README.md
-
-# Exceptuar la carpeta del parcial y todo su contenido interno
-!/Desarrollo Parcial 1 Sistemas Operativos/
-!/Desarrollo Parcial 1 Sistemas Operativos/**
